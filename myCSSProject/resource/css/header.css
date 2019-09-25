@@ -1,0 +1,42 @@
+/* Header */
+div#p_header 
+{
+    margin-bottom: 30px;
+    padding: 10px;
+    height: 200px;
+    background-image: url('../img/bkgnd.jpg');
+    background-repeat: all;
+}
+/* Logo image*/
+div#p_header img 
+{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+/*Header Menu */
+div#p_menu
+{
+	  margin-top: 20px;
+    margin-right: 150px;
+    padding: 0;
+    float: right;
+    color: #D3D3D3;
+	  font-size: 0.5em;
+    font: 14px Verdana, sans-serif;
+    text-align: left;
+}
+
+div#p_menu ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+}
+
+div#p_menu li
+{
+   margin-left: 100px;
+   margin-top: 30px;
+   float: left;
+   display: inline;
+}
+

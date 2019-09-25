@@ -1,0 +1,40 @@
+/* content */
+ div#p_root 
+{
+    margin: 0;
+    padding: 0;
+}
+/* root page content 1*/
+div#root_page_content_1 
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    
+
+}
+/*root image content*/
+div#root_page_content_1 img 
+{
+    margin-left: 15px;
+    padding: 10px;
+    border: 1px solid #D3D3D3;
+}
+/* root page content 2*/
+div#root_page_content_2 
+{
+    height: 150;
+    width: : 100%;
+    background-image: url('../img/bkgnd.jpg');
+    background-repeat: repeat-x;
+    margin: 0;
+    padding: 0;
+    
+}
+div#root_page_content_2 p
+{
+    display: block;
+    
+    margin: 0;
+    padding: 0;
+}

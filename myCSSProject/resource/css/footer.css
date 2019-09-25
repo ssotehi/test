@@ -1,0 +1,13 @@
+/* Footer */
+div#p_footer 
+{
+    float: bottom;
+    font-size: 0.5em;
+    font: 8px Verdana, sans-serif;
+    text-align: left;
+}
+/* Image contact */
+div#p_footer img 
+{
+   float:right;
+}

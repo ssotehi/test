@@ -1,0 +1,14 @@
+body 
+{
+	color: #000000;
+	background-color: #FFFFFF;
+	margin: 0;
+    padding: 0;
+}
+
+.p_container 
+{
+	width: 100%;
+	margin: auto;
+    padding: 0;
+}
